@@ -3,7 +3,7 @@
 Seja bem vindo ao meu perfil! Sou um estudante de Análise e Desenvolvimento de Sistemas e amo tecnologia, aprendendo a cada dia um pouco mais sobre programação. 
 
 ### 🌟 Sobre mim:  
-- ☕ Estudando Java e Banco de Dados (SQL)
+- ☕ Estudando Java e Banco de Dados (SQL, MySQL)
 - 💻 Apaixonado por tecnologia, programação e games
 - 📚 Sempre buscando aprender mais
 
